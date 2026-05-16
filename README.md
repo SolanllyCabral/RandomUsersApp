@@ -43,7 +43,7 @@ RandomUserConsoleApp
 ├── Program.cs
 │
 ├── App
-│   └── ConsoleApp.cs
+│   └── RandomUserApp.cs
 │
 ├── Dtos
 │   └── UserDto.cs
